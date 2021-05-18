@@ -8,8 +8,20 @@
     "start": "next start"
   },
   "dependencies": {
+    "autoprefixer": "^9",
     "next": "10.2.0",
+    "postcss": "^7",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "sass": "^1.32.13"
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "npm": "^7.13.0",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-import": "^14.0.2",
+    "postcss-preset-env": "^6.7.0",
+    "precss": "^4.0.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   }
 }
