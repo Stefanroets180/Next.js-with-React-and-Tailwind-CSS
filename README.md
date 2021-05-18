@@ -41,5 +41,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 3 Next/link - info on linking your pages (https://nextjs.org/docs/api-reference/next/link)
 
+4 Fixing layout - troubleshooting (https://nerdcave.com/tailwind-cheat-sheet)
+
 
 

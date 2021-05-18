@@ -1,9 +1,11 @@
 module.exports = {
-
   purge: [
     './src/components/**/*.js',
     './pages/**/*.js'],
   theme: {
+    minHeight: {
+      '60vh': '60vh'
+    },
     extend: {},
   },
   variants: {},
